@@ -1,3 +1,11 @@
+"""
+explore.py
+Version:      1.0
+Description:  team 0 project; data exploration of ISLR College dataset,
+              http://faculty.marshall.usc.edu/gareth-james/ISL/data.html
+@author:      jwcuster
+"""
+
 from __future__ import print_function
 from pyspark.sql import SparkSession
 import pyspark.sql.functions
